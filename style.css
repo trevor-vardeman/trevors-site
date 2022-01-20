@@ -1,3 +1,13 @@
 body {
-  background: blue;
+  background: slategrey;
+}
+
+.links {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+ul {
+  
 }
