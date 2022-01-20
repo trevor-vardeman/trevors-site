@@ -1,9 +1,24 @@
+* {
+  font-family: "Verdana", "Arial", "Helvetica", sans-serif;
+}
+
 head {
   color: red;
 }
 
+.upper_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
 body {
-  background: slategrey;
+  background-image: url('images/pexels-kehn-hermano-3881034.jpg');
+  height: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
   justify-content: center;
   align-items: center;
@@ -13,10 +28,4 @@ body {
   display: flex;
   text-align: center;
   justify-content: center;
-}
-
-.footer {
-  align-items: center;
-  justify-content: center;
-  text-align: center;
 }
