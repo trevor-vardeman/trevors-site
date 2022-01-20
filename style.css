@@ -1,5 +1,14 @@
+head {
+  color: red;
+}
+
+
+
 body {
   background: slategrey;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .links {
@@ -8,6 +17,8 @@ body {
   justify-content: center;
 }
 
-ul {
-  
+.footer {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
