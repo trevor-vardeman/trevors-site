@@ -1,10 +1,4 @@
 # trevors-site
-Credit goes to the following people for their photo usage:
+My first website. :)
 
-Photo by Daniel Seßler on Unsplash (https://unsplash.com/@danielsessler)
-
-Photo by KEHN HERMANO from Pexels (https://www.pexels.com/@brotherkehn)
-
-Photo by Denys Nevozhai on Unsplash (https://unsplash.com/@dnevozhai)
-
-Photo by Casey Horner on Unsplash (https://unsplash.com/@mischievous_penguins)
+Photo credit to Photo by Felix Mittermeier (https://www.pexels.com/@felixmittermeier) from Pexels.
