@@ -10,6 +10,18 @@ body {
   text-align: center;
   border: 3px solid #407c9a;
   color: white;
+  position: relative;
+}
+
+#container {
+  min-height: 100vh;
+  position: relative;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .top_nav, .bottom_nav {
@@ -60,6 +72,10 @@ img {
 
 .intro {
   font-size: 30px;
+}
+
+#here {
+  color: #d0a406;
 }
 
 span {
